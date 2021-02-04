@@ -1,0 +1,6 @@
+[submodule "themese/Timer"]
+	path = themese/Timer
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/Timer"]
+	path = themes/Timer
+	url = https://github.com/themefisher/timer-hugo.git
