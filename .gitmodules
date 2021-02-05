@@ -4,3 +4,6 @@
 [submodule "themes/Timer"]
 	path = themes/Timer
 	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
